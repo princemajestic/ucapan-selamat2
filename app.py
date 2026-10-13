@@ -16,7 +16,7 @@ if nama:
     str.success(f"### Halo {nama}, tetap semangat ya menjalani hari ini!")
     str.info("💡 **Ingat:** Jangan menyerah, setiap langkah kecil membawamu lebih dekat ke impianmu!")
     str.markdown("---")
-    link_mp3 = "https://jumpshare.com/s/em1fj9sBQq4dWDTbrSML"
+    link_mp3 = "https://pdftourl.net/audio/1791898812968-6c0cdd3a-5d8f-4942-bd43-2488620e20fa.mp3"
     
     komponen_audio = f"""
     <audio id="bg-audio" src="{link_mp3}" loop></audio>
