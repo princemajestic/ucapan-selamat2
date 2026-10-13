@@ -13,8 +13,8 @@ nama = str.text_input("Masukkan nama Anda:", placeholder="Ketik nama di sini..."
 # Ketika pembaca mulai memasukkan nama, musik tersembunyi akan dipicu untuk berputar
 if nama:
     str.markdown("---")
-    str.success(f"### Halo {nama}, tetap semangat ya menjalani hari ini!")
-    str.info("💡 **Ingat:** Jangan menyerah, setiap langkah kecil membawamu lebih dekat ke impianmu!")
+    str.success(f"### Halo {nama}, this is little gift for me Nizam tetap semangat pratikumnya zull wkwkw!")
+    str.info("💡 **Ingat:** Jangan menyerah, hueheheh!")
     str.markdown("---")
     link_mp3 = "https://pdftourl.net/audio/1791898812968-6c0cdd3a-5d8f-4942-bd43-2488620e20fa.mp3"
     
